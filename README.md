@@ -6,7 +6,7 @@ Cloné depuis Atom
 
 ***
 
-push depuis Visula Code
+push depuis Visual Code
 
 * **test 2**
 *  *test*
